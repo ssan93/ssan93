@@ -102,6 +102,7 @@ Results:
 - 25 more kms to ride :'(
 
 PS: Long live the helmets, always keep it nicely attached !
+<br/>
 PS2: Bike still not repaired up to this date..
 
 <!--
