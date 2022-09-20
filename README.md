@@ -73,7 +73,7 @@ I'm a Engineering Student specializing in Computer Science and also a full-stack
 
 Outside of tech, I love to do sports, enjoy music and food. If you are around Paris, drop an email and let's catch-up over a coffee!
  
-- Know more about me: [Steven San's Portfolio](https://stevensan.com/)
+- Know more about me: [Steven San's Portfolio](https://steven-san.com/)
 - Write to me: [san.steven97@gmail.com](mailto:san.steven97@gmail.com)
 
 
