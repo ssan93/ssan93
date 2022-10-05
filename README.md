@@ -45,8 +45,7 @@ I'm Steven San!
     <img src="https://img.shields.io/badge/-Redis-bc2e29?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-2f5b8b?style=flat-square&logo=Postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-005983?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey?style=flat-square&logo=microsoftsqlserver&logoColor=white
-    " />
+    <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Docker-0095d1?style=flat-square&logo=docker&logoColor=white" />
