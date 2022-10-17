@@ -98,7 +98,7 @@ Results:
 - twisted wheel
 - broken handle
 - broken luggage rack 
-- 25 more kms to ride :'(
+- 25 more kms to ride
 
 PS: Long live the helmets, always keep it nicely attached !
 <br/>
