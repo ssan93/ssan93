@@ -12,10 +12,6 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ssan93.ssan93)](https://github.com/ssan93) [![GitHub followers](https://img.shields.io/github/followers/ssan93.svg?style=social&label=Follow)](https://github.com/ssan93?tab=followers)
 
-I'm Steven San! 
-- <i>Currently:</i> 5th-year Computer Science Student at UTBM at Belfort, France. 
-- <i>In Parallel:</i> Full Stack Developer at Sfeir via apprenticeship.
-
 <h2>💻 I'm Currently working on</h2>
 
 - System Design and Distributed Computing
