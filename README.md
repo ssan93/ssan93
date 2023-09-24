@@ -1,5 +1,5 @@
 <h2 align='center'>Steven San @ ssan93</h2>
-<p align='center'><b>5th-year Computer Science Student at UTBM at Belfort</b></p> 
+<p align='center'><b>Full Stack Software Engineer</b></p> 
 
 <h1>Hey! 
 <img 
