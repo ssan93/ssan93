@@ -70,8 +70,8 @@ Outside of tech, I love to do sports, enjoy music and food. If you are around Se
   
   <p align="center">
     <div align="center">
-      <img src="https://streak-stats.demolab.com/?user=ssan93&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
-      <img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssan93&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=150 src="https://streak-stats.demolab.com/?user=ssan93&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssan93&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </div>  
   </p>
 </div>
