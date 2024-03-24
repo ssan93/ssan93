@@ -16,6 +16,7 @@ Currently based in Seoul, I am looking for opportunities to exchange views on de
 
 - Web application to provide images for a live slideshow during weddings
 - React Certification
+- TOPIK 1 Certification
 
 <h3>Languages and Tools:</h3>
 <div>
