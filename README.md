@@ -20,44 +20,37 @@ Currently based in Seoul, I am looking for opportunities to exchange views on de
 
 <h3>Languages and Tools:</h3>
 <div>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
+    <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
+</div>
+<div>
     <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Angular-de002d?style=flat-square&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" />
 </div><br/>
 <div >
-<div>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redis-bc2e29?style=flat-square&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-2f5b8b?style=flat-square&logo=Postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-005983?style=flat-square&logo=mysql&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-Docker-0095d1?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GCP-de4032?style=flat-square&logo=googlecloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" />
-</div>
+      <div>
+          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Redis-bc2e29?style=flat-square&logo=redis&logoColor=white" />
+          <img src="https://img.shields.io/badge/-MySQL-005983?style=flat-square&logo=mysql&logoColor=white" />
+      </div>
+      <div>
+          <img src="https://img.shields.io/badge/-GCP-de4032?style=flat-square&logo=googlecloud&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
+          <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" />
+      </div>
 </div>
 <br/>
 <div>
     <img src="https://img.shields.io/badge/-Postman-f26633?style=flat-square&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
 </div>
 
 <h2>💬 About me</h2>
 
-I'm a Engineering Graduate specializing in Computer Science and also a full-stack web developer with hands-on experience in Javascript.
+I'm a Engineering Graduate specializing in Computer Science and also a full-stack web engineer with hands-on experience in Javascript.
 
 Outside of tech, I love to do sports, enjoy music and food. If you are around Seoul, drop an email and let's catch-up over a coffee!
  
