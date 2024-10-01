@@ -21,19 +21,33 @@ Currently based in Seoul, I am looking for opportunities to exchange views on de
 <h3>Languages and Tools:</h3>
 
 <div>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="next logo"/>
+      <a href="https://nextjs.org/">
+            <img width=50 src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="next logo"/>
+      </a>
       <img width="12"/>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/react/61DAFB" alt="react logo"/>
+      <a href="https://reactjs.org/">
+        <img width=50 src="https://cdn.simpleicons.org/react/61DAFB" alt="react logo"/>
+      </a>
       <img width="12"/>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript logo"/>
+      <a href="https://www.typescriptlang.org/">
+        <img width=50 src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript logo"/>
+      </a>
       <img width="12"/>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind logo"/>
+      <a href="https://tailwindcss.com/">
+        <img width=50 src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind logo"/>
+      </a>
       <img width="12"/>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="nodejs logo"/>
+      <a href="https://nodejs.org/">
+        <img width=50 src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="nodejs logo"/>
+      </a>
+        <img width="12"/>
+      <a href="https://postgresql.org/">
+        <img width=50 src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql logo"/>
+      </a>
       <img width="12"/>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql logo"/>
-      <img width="12"/>
-      <img width=50 height= 50 src="https://cdn.simpleicons.org/amazonwebservices/ffffff" alt="aws logo"/>
+      <a href="https://aws.amazon.com/">
+        <img width=50 src="https://cdn.simpleicons.org/amazonwebservices/ffffff" alt="aws logo"/>
+      </a>
 </div>
 
 <h2>💬 About me</h2>
