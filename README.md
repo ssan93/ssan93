@@ -19,33 +19,19 @@ Currently based in Seoul, I am looking for opportunities to exchange views on de
 - TOPIK 1 Certification
 
 <h3>Languages and Tools:</h3>
+
 <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
-    <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-</div>
-<div>
-    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui" />
-</div><br/>
-<div >
-      <div>
-          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/-Redis-bc2e29?style=flat-square&logo=redis&logoColor=white" />
-          <img src="https://img.shields.io/badge/-MySQL-005983?style=flat-square&logo=mysql&logoColor=white" />
-      </div>
-      <div>
-          <img src="https://img.shields.io/badge/-GCP-de4032?style=flat-square&logo=googlecloud&logoColor=white" />
-          <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
-          <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" />
-      </div>
-</div>
-<br/>
-<div>
-    <img src="https://img.shields.io/badge/-Postman-f26633?style=flat-square&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest&logoColor=white" />
+      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/8302fa3c-156a-4392-9f0c-b0005f331655" alt="next logo"/>
+      <img width="12"/>
+      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/3694676a-031d-4c5d-824b-ef76f8a9503e" alt="react logo"/>
+      <img width="12"/>
+      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/79fe91fd-d2ae-4c78-a31d-cf7ff91cd344" alt="typescript logo"/>
+      <img width="12"/>
+      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/e0af70bc-8734-4427-be62-7c6fa9eeb581" alt="tailwind logo"/>
+      <img width="12"/>
+      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/cc44b449-a4aa-4bb9-bc0c-4fc2d39c46d9" alt="nodejs logo"/>
+      <img width="12"/>
+      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/598ee995-3120-4b5a-a97d-30103e5d4809" alt="postgresql logo"/>
 </div>
 
 <h2>💬 About me</h2>
