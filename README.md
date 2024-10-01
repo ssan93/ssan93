@@ -21,17 +21,19 @@ Currently based in Seoul, I am looking for opportunities to exchange views on de
 <h3>Languages and Tools:</h3>
 
 <div>
-      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/8302fa3c-156a-4392-9f0c-b0005f331655" alt="next logo"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="next logo"/>
       <img width="12"/>
-      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/3694676a-031d-4c5d-824b-ef76f8a9503e" alt="react logo"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/react/61DAFB" alt="react logo"/>
       <img width="12"/>
-      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/79fe91fd-d2ae-4c78-a31d-cf7ff91cd344" alt="typescript logo"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript logo"/>
       <img width="12"/>
-      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/e0af70bc-8734-4427-be62-7c6fa9eeb581" alt="tailwind logo"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind logo"/>
       <img width="12"/>
-      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/cc44b449-a4aa-4bb9-bc0c-4fc2d39c46d9" alt="nodejs logo"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="nodejs logo"/>
       <img width="12"/>
-      <img width=70 height= 70 src="https://gist.github.com/user-attachments/assets/598ee995-3120-4b5a-a97d-30103e5d4809" alt="postgresql logo"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql logo"/>
+      <img width="12"/>
+      <img width=50 height= 50 src="https://cdn.simpleicons.org/amazonwebservices/ffffff" alt="aws logo"/>
 </div>
 
 <h2>💬 About me</h2>
