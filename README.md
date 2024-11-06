@@ -9,14 +9,14 @@
 <hr>
 
 I'm a Full Stack Software Engineer with four years of hands-on experience in React/Next, Node.js and TypeScript.
-Currently based in Seoul, I am looking for opportunities to exchange views on developing methods.
+I am looking for opportunities in Germany to exchange views on software engineering.
 
 
 <h2>💻 I'm Currently working on</h2>
 
 - Web application to provide images for a live slideshow during weddings
-- React Certification
-- TOPIK 1 Certification
+- React Certification - level 3 (Certified level 2 in October 2024)
+- TOPIK-I Certification
 
 <h3>Languages and Tools:</h3>
 
@@ -52,7 +52,7 @@ Currently based in Seoul, I am looking for opportunities to exchange views on de
 
 <h2>💬 About me</h2>
 
-I'm a Engineering Graduate specializing in Computer Science and also a full-stack web engineer with hands-on experience in Javascript.
+I'm an engineer specializing in Computer Science and also a full-stack web engineer with hands-on experience in Typescript.
 
 Outside of tech, I love to do sports, enjoy music and food. If you are around Seoul, drop an email and let's catch-up over a coffee!
  
@@ -74,7 +74,7 @@ Outside of tech, I love to do sports, enjoy music and food. If you are around Se
 
 <h2>📫 How to reach me</h2>
 
-<a href="mailto:san.steven97@gmail.com">![san.steven97@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/steven-san-53a8a1194/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:san.steven97@gmail.com">![san.steven97@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/steven-san7/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <h2>⚡ Fun fact</h2>
 
